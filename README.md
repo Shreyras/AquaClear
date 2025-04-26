@@ -3,8 +3,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-Enabled-blue" alt="IoT Badge">
-  <img src="https://img.shields.io/badge/Smart-Home-brightgreen" alt="Smart Home Badge">
-  <img src="https://img.shields.io/badge/Powered%20By-Arduino-orange" alt="Arduino Badge">
+  <img src="https://img.shields.io/badge/Platform-Android-green" alt="Android Badge">
+  <img src="https://img.shields.io/badge/Powered%20By-Arduino%20NodeMCU-orange" alt="Arduino Badge">
 </p>
 
 ---
