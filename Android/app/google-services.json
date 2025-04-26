@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567384278477",
+    "firebase_url": "https://aquaclear-8646e-default-rtdb.firebaseio.com",
+    "project_id": "aquaclear-8646e",
+    "storage_bucket": "aquaclear-8646e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567384278477:android:56aa31c89429830b87b084",
+        "android_client_info": {
+          "package_name": "com.example.watermanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567384278477-j21d0hgsnbv499t4sjqpu9ca1jb80q1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAfSlCjbW2PeT9A6wEOawFnoQlKDt5ED8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567384278477-j21d0hgsnbv499t4sjqpu9ca1jb80q1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
