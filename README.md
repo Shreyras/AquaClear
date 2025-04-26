@@ -1,18 +1,40 @@
-# AquaClear
-IOT based water management system for home water supply
+#  AquaClear  
+**IoT-Based Water Management System for Home Water Supply**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/IoT-Enabled-blue" alt="IoT Badge">
+  <img src="https://img.shields.io/badge/Smart-Home-brightgreen" alt="Smart Home Badge">
+  <img src="https://img.shields.io/badge/Powered%20By-Arduino-orange" alt="Arduino Badge">
+</p>
 
-The quality of water resources available across the world have been degrading much faster than ever before. Therefore,
-judicious use of water resources has become an important topic as these resources get evermore scarce. Moreover,
-efficient treatment and utilization of these resources domestically is another factor to be considered. Our proposed IoTbased system aims to enhance the water utilization in households as in preventing excess use of Reverse Osmosis (RO)
-and prevent highly contaminated water from entering the house water-storage. The system uses sensors which measure
-physical characteristics of water – its temperature and Total Dissolved Solids (TDS) which is gathered by the
-microcontroller and displayed to the user on a smartphone. Based on the value of TDS of water, the system automatically
-controls the water filter system by directing unfiltered water to the suitable filter (RO or Non-RO) as well as controlling
-the water-storage tank system.
+---
 
-## Water Supply System
-![image](https://github.com/user-attachments/assets/119b053f-ac4e-454a-89d2-afbfeea9718f)
+### 🌎 Problem Statement
+The quality of water resources around the world has been **degrading rapidly**.  
+Hence, **judicious use** and **efficient treatment** of water have become critical as water becomes scarcer.  
+
+Our proposed **IoT-based system** aims to:
+- **Enhance** water utilization in households
+- **Prevent excess use** of Reverse Osmosis (RO)
+- **Block highly contaminated water** from entering home water-storage systems
+
+---
+
+### 💡 How It Works
+The system uses **sensors** to measure the physical characteristics of water:
+- **Temperature**
+- **Total Dissolved Solids (TDS)**
+
+These readings are gathered by a **microcontroller** and displayed to users via a **smartphone app** 📱.
+
+Depending on the **TDS value**, the system:
+- Automatically **controls the water filtration** (choosing RO or Non-RO filters)
+- **Manages the water-storage tank** accordingly
+
+---
+
+## 🛠 Water Supply System
+![Water Supply System](https://github.com/user-attachments/assets/119b053f-ac4e-454a-89d2-afbfeea9718f)
 
 <p align="center">
   <a href="https://youtu.be/kXsjpFb03KM" target="_blank">
@@ -20,9 +42,10 @@ the water-storage tank system.
   </a>
 </p>
 
+---
 
-## Water Filtration System
-![image](https://github.com/user-attachments/assets/7e3607c3-2f22-45b3-9ca2-4cdca1bc9f16)
+## 🧹 Water Filtration System
+![Water Filtration System](https://github.com/user-attachments/assets/7e3607c3-2f22-45b3-9ca2-4cdca1bc9f16)
 
 <p align="center">
   <a href="https://youtu.be/_Lu12xWsaqA" target="_blank">
@@ -30,6 +53,18 @@ the water-storage tank system.
   </a>
 </p>
 
+---
 
+### 🚀 Key Features
+- 📈 Real-time water quality monitoring
+- 🔄 Automatic filtration switching based on TDS
+- 📦 Smart water storage management
+- 📲 Mobile app integration for live monitoring
 
+---
 
+### 📹 Demo Videos
+- [Water Supply System Demo](https://youtu.be/kXsjpFb03KM)
+- [Water Filtration System Demo](https://youtu.be/_Lu12xWsaqA)
+
+---
