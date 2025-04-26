@@ -36,22 +36,10 @@ Depending on the **TDS value**, the system:
 ## 🛠 Water Supply System
 ![Water Supply System](https://github.com/user-attachments/assets/119b053f-ac4e-454a-89d2-afbfeea9718f)
 
-<p align="center">
-  <a href="https://youtu.be/kXsjpFb03KM" target="_blank">
-    <img src="https://img.youtube.com/vi/kXsjpFb03KM/maxresdefault.jpg" alt="Watch the video" width="600" style="border-radius: 12px;">
-  </a>
-</p>
-
 ---
 
 ## 🧹 Water Filtration System
 ![Water Filtration System](https://github.com/user-attachments/assets/7e3607c3-2f22-45b3-9ca2-4cdca1bc9f16)
-
-<p align="center">
-  <a href="https://youtu.be/_Lu12xWsaqA" target="_blank">
-    <img src="https://img.youtube.com/vi/_Lu12xWsaqA/maxresdefault.jpg" alt="Watch the video" width="600" style="border-radius: 12px;">
-  </a>
-</p>
 
 ---
 
